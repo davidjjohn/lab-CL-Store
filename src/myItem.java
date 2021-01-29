@@ -4,6 +4,8 @@
 // Date
 
 public class myItem {
+
+    // store item name and store item unit price
     private String itemName;
     private double itemPrice;
 
